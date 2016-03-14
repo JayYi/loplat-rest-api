@@ -3,7 +3,7 @@ loplat's indoor positioning platform REST API - register a place, recognize a pl
 
 ## Note
 * If you want to have client_id and client_secret to use loplat's inddor poisitioning platform REST API,
-* please, feel free to email at Lamen2357@loplat.com
+* feel free to email at Lamen2357@loplat.com
 
 ## REST API List
 1. Recognize a place (with WiFi Scan)
